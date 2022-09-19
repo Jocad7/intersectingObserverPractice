@@ -1,0 +1,19 @@
+{
+  "name": "intersection-observer",
+  "version": "1.0.0",
+  "description": "intersection observer practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jocad7/intersectingObserverPractice.git"
+  },
+  "author": "Jd Castillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jocad7/intersectingObserverPractice/issues"
+  },
+  "homepage": "https://github.com/Jocad7/intersectingObserverPractice#readme"
+}
